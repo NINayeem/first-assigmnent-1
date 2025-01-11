@@ -232,6 +232,53 @@
   }
   .btn-8{
     background-color: #006A50;
-    
+    width: 122px;
+    height: 41px;
+    padding: 20px 11px;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
+   
+  }
+  .btn-8:hover{
+    color: rgb(30, 5, 255);
+    background-color: #ec0cb4;}
+    .footer1{
+        font-family: Fira Sans;
+        font-size: 40px;
+        font-weight: bold;
+        width: 622px;
+        height: 48px;
+        text-align:center ;
+        padding: 64px;
+    }
+    .footer-title{
+        background-color: #C6E4D6;
+        width: 1280px;
+        height: 395px;
+        padding: 100px 80px;
+        margin: 64px;
+        border-radius: 24px;
+      
+    }
+    .btn96{ 
+        background-color: #006A50;
+        width: 150px;
+        height: 56px;
+        padding: 34px 17px;
+        border-radius: 8px;
 
+    }
+    .f-eml{
+        width: 600px;
+        height: 55px;
+    }
+  .ff-l{
+text-align: center;
+padding: 10 20px;
+margin: 100;
+  }
+  .socal{
+    display: block;
+    margin: auto;
   }
