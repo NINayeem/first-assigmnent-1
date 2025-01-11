@@ -25,3 +25,81 @@
     border-radius: 24px;
   
 }
+.titie{
+    display: flex;
+    gap: 14px;
+    height: 325px;
+    width: 1280px;
+    
+}
+.dig-1{
+    background-color: #a9c4e9;
+    padding: 32px 32px ;
+    border-radius: 16px;
+}
+.dig-2{
+    background-color: #F7EBCF;
+    padding: 32px 32px ;
+    border-radius: 16px;
+
+}
+.dig-3{
+    background-color: #C6E4D6;
+    padding: 32px 32px ;
+    border-radius: 16px;
+
+}
+.btn-1{
+    background-color: #5490F5;
+    width: 122px;
+    height: 41px;
+    padding: 20px 11px;
+    margin: 32px;
+    border-radius: 8px;
+}
+.btn-1:hover{
+    color: rgb(255, 0, 0);
+    background-color: #FFC239;
+    
+}
+.btn-2{
+    background-color: #FFC239;
+    width: 122px;
+    height: 41px;
+    padding: 20px 11px;
+    margin: 32px;
+    border-radius: 8px;
+  
+}
+.btn-2:hover{
+    color: rgb(255, 255, 255);
+    background-color: #ff0000;
+    
+}
+.btn-3:hover{
+    color: rgb(30, 5, 255);
+    background-color: #ff03c0;
+    
+}
+.btn-3{
+    background-color: #09A15C;
+    width: 122px;
+    height: 41px;
+    padding: 20px 11px;
+    margin: 32px;
+    border-radius: 8px;
+    
+    
+}
+.text-1{
+    font-weight: bold;
+    font-style: 40px;
+    font-family: Fira Sans;
+    color: #0E0E0E;
+}
+
+.title-2{
+    font-size: 16px;
+    color: #918989;
+    line-height: 24px;
+}
