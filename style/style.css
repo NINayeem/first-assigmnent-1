@@ -186,6 +186,10 @@
     padding: 40px 40px;
     border-radius: 16px;
   }
+  .flex-box:hover{
+    color: rgb(255, 16, 16);
+    background-color: #f4f80a;}
+    
   .flex-box2{
     background-color: #C6E4D6;
     width: 252px;
@@ -194,6 +198,9 @@
     border-radius: 16px;
 
   }
+  .flex-box2:hover{
+    color: rgb(255, 16, 16);
+    background-color: #ff65eb;}
   .bd-2{
    height: 64;
    width: 64;
@@ -212,6 +219,9 @@
     border-radius: 16px;
 
   }
+  .flex-box3:hover{
+    color: rgb(255, 16, 16);
+    background-color: #0af8e4;}
   .flex-box4{
     background-color: #f3e5e5;
     width: 252px;
@@ -220,6 +230,9 @@
     border-radius: 16px;
 
   }
+  .flex-box4:hover{
+    color: rgb(255, 255, 255);
+    background-color: #080800;}
   .box{
     text-align: center;
     font-size: 40px;
