@@ -156,5 +156,82 @@
 }
 .btn-5:hover{
     color: rgb(30, 5, 255);
-    background-color: #ff03c0;
+    background-color: #ff03c0;}
+    .s2{
+        margin-top: 50px;
+    }
+    .satelite-p{
+        background-color: #f3e8cf;
+       padding: 50px;}
+
+       .flex-boxf{
+        display: flex;
+        gap: 24px;
+        font-weight: bold;
+        font-size: 40px;
+        height: 124px;
+        width:1071px ;
+        margin: 104px,152px;
+        text-align: center;
+        padding-left: 100px;
+       }
+  .flex-box{
+    background-color: #f7eded;
+    width: 252px;
+    height: 128;
+    padding: 40px 40px;
+    border-radius: 16px;
+  }
+  .flex-box2{
+    background-color: #C6E4D6;
+    width: 252px;
+    height: 128;
+    padding: 40px 40px;
+    border-radius: 16px;
+
+  }
+  .flex-box3{
+    background-color: #f7e9e9;
+    width: 252px;
+    height: 128;
+    padding: 40px 40px;
+    border-radius: 16px;
+
+  }
+  .flex-box4{
+    background-color: #f3e5e5;
+    width: 252px;
+    height: 128;
+    padding: 40px 40px;
+    border-radius: 16px;
+
+  }
+  .box{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  .box-22{
+    text-align: center;
+    gap: 32px;
+  }
+  .tb2{
+    background-color: #e2e2e2;
+    width: 1032px;
+    height: 12px;
+    padding: 40px 20px;
+    margin: 50px;
+    text-align: center;
+    justify-content: space-between;
+  }
+  .sadow{
+    color: #868080;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .btn-8{
+    background-color: #006A50;
     
+
+  }
