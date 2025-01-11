@@ -24,7 +24,11 @@
     background-color:  #006A50;
     width: 270px;
     height: 56px;
+    border-radius: 8px;
 }
+.btn:hover{
+    color: rgb(253, 236, 0);
+    background-color: #a788fd;}
 .title-top{
     display: flex;
     background-color: #C6E4D6;
@@ -272,6 +276,9 @@
         border-radius: 8px;
 
     }
+    .btn96:hover{
+        color: rgb(255, 16, 16);
+        background-color: #f4f80a;}
     .f-eml{
         width: 600px;
         height: 53px;
